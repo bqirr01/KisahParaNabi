@@ -5,4 +5,4 @@ _Kisah-Kisah perjalanan dakwah para nabi terdahulu_
 ![Screenshot_1653549955](https://user-images.githubusercontent.com/88423102/170439311-93d3c0ec-dd83-488c-a8b9-7514b44b315c.png)
 
 I hope You Get more usefull from my software, and hope you like it
-_Kuharap kalian bisa mendapatkan manfaat dari foftware saya, dan semoga kalian menyukainya_
+_Kuharap kalian bisa mendapatkan manfaat dari software saya, dan semoga kalian menyukainya_
